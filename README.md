@@ -1,7 +1,7 @@
 # eqsol-rs
 A simple CLI verison of my Python equation solving program
 
-#Usage
+# Usage
 *./filename.txt*:
 x=5
 y=6
